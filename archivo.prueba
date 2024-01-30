@@ -1,0 +1,14 @@
+
+int sumar(int a, int b) {
+    return a + b;
+}
+
+int main() {
+    int x = 5;
+    float y = 3.14;
+    cout << "Hola, mundo!" << endl;
+    if (x > 0 && y < 10.0) {
+        cout << "x es positivo" << endl;
+    }
+    return 0;
+}
